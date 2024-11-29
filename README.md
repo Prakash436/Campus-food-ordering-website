@@ -87,14 +87,13 @@ The app is built with the following architecture:
 
 ---
 
-<!--## 📈 Output Example
+## 📈 Output Example
 
-- **Menu Page**: Displays food items in a categorized list with images, descriptions, and prices.
-- **Cart Page**: Shows the items in the cart with a checkout option.
-- **Admin Panel**: Allows the admin to manage the menu and view order details.
+- **Admin Panel**: ![image](https://github.com/user-attachments/assets/a279b218-9578-4e3e-840f-60cf36dc18a9)
+- **User Profile**: ![image](https://github.com/user-attachments/assets/2f302447-3c6a-42a4-a33b-58aba3de9ca8)
 
 ---
--->
+
 ## 🔗 Links
 
 - **Google Authentication Setup**: [Google Developer Console](https://console.developers.google.com/)
